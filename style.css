@@ -1,0 +1,16 @@
+img#produto01 {
+    width: 150px;
+}
+
+img#produto02 {
+    width: 150px;
+}
+
+strong#logotopo {
+    text-align: center;
+    color: rgb(25, 165, 170);
+}
+
+body {
+    background-color: rgb(185, 185, 185);
+}
